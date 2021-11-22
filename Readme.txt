@@ -1,1 +1,1 @@
-A useless repository, used for experiment
+A useless repository, used for experiments.
